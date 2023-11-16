@@ -1,0 +1,18 @@
+Paleta 1
+#0b090a,
+#161a1d, 
+#660708, 
+#a4161a, 
+#ba181b, 
+#e5383b, 
+#b1a7a6, 
+#d3d3d3, 
+#f5f3f4, 
+#ffffff
+
+paleta 2
+#003049 blue
+#D62828 red
+#F77F00 mostaza
+#FCBF49 mostaza clara
+#EAE2B7 creme

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="78" viewBox="0 0 86 78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_630" data-name="Rectángulo 630" width="86.51" height="79.198" fill="none" stroke="#00263e" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-f-p_status">
+      <rect width="86" height="78"/>
+    </clipPath>
+  </defs>
+  <g id="f-p_status" clip-path="url(#clip-f-p_status)">
+    <g id="Grupo_872" data-name="Grupo 872">
+      <g id="Grupo_871" data-name="Grupo 871" transform="translate(-2626.299 -152)">
+        <g id="Grupo_854" data-name="Grupo 854" transform="translate(2626.299 152)">
+          <g id="Grupo_846" data-name="Grupo 846" clip-path="url(#clip-path)">
+            <line id="Línea_1" data-name="Línea 1" y2="37.616" transform="translate(37.616 37.816)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+        <line id="Línea_9" data-name="Línea 9" y1="15.046" transform="translate(2699.649 172.889)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+        <g id="Grupo_855" data-name="Grupo 855" transform="translate(2626.299 152)">
+          <g id="Grupo_848" data-name="Grupo 848" clip-path="url(#clip-path)">
+            <path id="Trazado_1" data-name="Trazado 1" d="M36.735,1.107,1,18.034v1.881L36.735,36.841,72.47,19.914V18.034Z" transform="translate(0.881 0.974)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+        <line id="Línea_8" data-name="Línea 8" x1="37.198" y1="17.619" transform="translate(2645.524 162.793)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Trazado_11" data-name="Trazado 11" d="M44.258,62.085,36.735,65.65,1,48.722V11.107" transform="translate(2627.179 161.782)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+        <g id="Icon_feather-check-circle" data-name="Icon feather-check-circle" transform="translate(2673.061 190.009)">
+          <path id="Trazado_17" data-name="Trazado 17" d="M34.879,17.474V18.94A15.939,15.939,0,1,1,25.427,4.371" transform="translate(0)" fill="none" stroke="#00a3e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Trazado_18" data-name="Trazado 18" d="M34.221,6,18.282,21.955,13.5,17.174" transform="translate(0.658 0.188)" fill="none" stroke="#00a3e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

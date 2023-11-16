@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="86" height="78" viewBox="0 0 86 78">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_630" data-name="Rectángulo 630" width="86.51" height="79.198" fill="none" stroke="#00263e" stroke-width="3"/>
+    </clipPath>
+    <clipPath id="clip-f-p_questions">
+      <rect width="86" height="78"/>
+    </clipPath>
+  </defs>
+  <g id="f-p_questions" clip-path="url(#clip-f-p_questions)">
+    <g id="Grupo_874" data-name="Grupo 874">
+      <g id="Grupo_869" data-name="Grupo 869" transform="translate(-2626.299 -356)">
+        <g id="Icon_feather-alert-triangle" data-name="Icon feather-alert-triangle" transform="translate(2673.362 391.719)">
+          <path id="Trazado_8" data-name="Trazado 8" d="M16.8,5.941,2.772,29.366A3.313,3.313,0,0,0,5.6,34.336H33.668a3.313,3.313,0,0,0,2.833-4.97L22.469,5.941a3.313,3.313,0,0,0-5.666,0Z" transform="translate(0 0)" fill="none" stroke="#00a3e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Trazado_9" data-name="Trazado 9" d="M18,13.5v7.31" transform="translate(1.637 0.66)" fill="none" stroke="#00a3e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+          <path id="Trazado_10" data-name="Trazado 10" d="M18,25.5h0" transform="translate(1.637 2.209)" fill="none" stroke="#00a3e0" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        </g>
+        <g id="Grupo_864" data-name="Grupo 864" transform="translate(2626.299 356.06)">
+          <g id="Grupo_846" data-name="Grupo 846" clip-path="url(#clip-path)">
+            <line id="Línea_1" data-name="Línea 1" y2="37.616" transform="translate(37.616 37.816)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+        <line id="Línea_18" data-name="Línea 18" y1="15.046" transform="translate(2699.649 376.948)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+        <g id="Grupo_865" data-name="Grupo 865" transform="translate(2626.299 356.06)">
+          <g id="Grupo_848" data-name="Grupo 848" clip-path="url(#clip-path)">
+            <path id="Trazado_1" data-name="Trazado 1" d="M36.735,1.107,1,18.034v1.881L36.735,36.841,72.47,19.914V18.034Z" transform="translate(0.881 0.974)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+          </g>
+        </g>
+        <line id="Línea_19" data-name="Línea 19" x1="37.198" y1="17.619" transform="translate(2645.524 366.852)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Trazado_25" data-name="Trazado 25" d="M44.258,62.085,36.735,65.65,1,48.722V11.107" transform="translate(2627.179 365.842)" fill="none" stroke="#00263e" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+    </g>
+  </g>
+</svg>
