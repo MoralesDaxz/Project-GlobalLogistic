@@ -1,7 +1,7 @@
 import React from 'react'
 import { ParallaxProvider } from 'react-scroll-parallax';
 import { Parallax } from 'react-scroll-parallax';
-import { useParallax } from 'react-scroll-parallax';
+
 import { Fade } from "react-awesome-reveal";
 import img1 from '../assets/img/large.jpg'
 import img2 from '../assets/img/camion.jpg'
