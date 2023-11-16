@@ -12,7 +12,6 @@ import { ParallaxProvider } from 'react-scroll-parallax';
 import { Parallax } from 'react-scroll-parallax';
 import { Fade } from "react-awesome-reveal";
 export const UsPage = () => {
-
     useEffect(() => {
         window.scrollTo(0, 0);
 
@@ -20,7 +19,6 @@ export const UsPage = () => {
     return (
         <>
             <ParallaxProvider>
-
                 {/* <video  className={window.innerWidth < 768 ? 'min-h-[3218px]' : window.innerWidth < 1120 ? 'h-[2048px]' : 'h-[1622px]'} autoPlay loop muted><source src={puntosVideo}></source></video> */}
                 <div className='parallax w-full backdrop-blur-[4px] bg-[#161616bd]  font-bold  text-white ' style={{ backgroundImage: `url(${bgBlack})` }}> {/*  backdrop-blur-[4px] bg-[#161616bd]  */}
                     <div className=' pt-[8rem] flex-flex-col items-center justify-center'>
