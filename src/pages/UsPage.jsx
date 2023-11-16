@@ -18,7 +18,7 @@ export const UsPage = () => {
     return (
         <>
 
-            <video src={puntosVideo} className={window.innerWidth < 768 ? 'h-[3205px]' : window.innerWidth < 1120 ? 'h-[2048px]' : 'h-[1605px]'} autoPlay loop muted></video>
+            <video  className={window.innerWidth < 768 ? 'h-[3205px]' : window.innerWidth < 1120 ? 'h-[2048px]' : 'h-[1605px]'} autoPlay loop muted><source src={puntosVideo}></source></video>
             <div className='w-full absolute  top-0 font-bold  text-white '>{/*  backdrop-blur-[4px] bg-[#161616bd]  */}
                 <div className=' pt-[8rem] flex-flex-col items-center justify-center'>
                     <h1 className='text-center text-[3rem] pb-[4rem]'>Expertos en transporte y logística.</h1>
