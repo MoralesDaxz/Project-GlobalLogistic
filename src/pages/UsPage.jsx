@@ -7,7 +7,7 @@ import founder2 from '../assets/img/founder2.jpg'
 import founder3 from '../assets/img/founder3.jpg'
 import founder4 from '../assets/img/morales.png'
 import { Footer } from '../components/Footer';
-
+import bgBlack from '../assets/img/blackBG.jpg'
 
 export const UsPage = () => {
 
@@ -18,8 +18,8 @@ export const UsPage = () => {
     return (
         <>
 
-            <video  className={window.innerWidth < 768 ? 'h-[3205px]' : window.innerWidth < 1120 ? 'h-[2048px]' : 'h-[1605px]'} autoPlay loop muted><source src={puntosVideo}></source></video>
-            <div className='w-full absolute  top-0 font-bold  text-white '>{/*  backdrop-blur-[4px] bg-[#161616bd]  */}
+            {/* <video  className={window.innerWidth < 768 ? 'min-h-[3218px]' : window.innerWidth < 1120 ? 'h-[2048px]' : 'h-[1622px]'} autoPlay loop muted><source src={puntosVideo}></source></video> */}
+            <div className='parallax w-full backdrop-blur-[4px] bg-[#161616bd]  font-bold  text-white ' style={{ backgroundImage: `url(${bgBlack})` }}> {/*  backdrop-blur-[4px] bg-[#161616bd]  */}
                 <div className=' pt-[8rem] flex-flex-col items-center justify-center'>
                     <h1 className='text-center text-[3rem] pb-[4rem]'>Expertos en transporte y logística.</h1>
                     <div className='w-full flex flex-col items-center gap-[2rem]'>

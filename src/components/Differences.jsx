@@ -13,7 +13,7 @@ export const Differences = () => {
                 <article className='flex flex-col gap-8'>
                     <h2 className='titulo'>¿Que nos diferencia de otras empresas de transporte?</h2>
                     <div className='flex justify-center flex-wrap gap-y-5'>
-                        <div className='flex flex-col items-center justify-start p-1 gap-2 w-[45%] md:w-[30%] md:px-8 lg:px-11 text-center'>
+                        <div className='  flex flex-col items-center justify-start p-1 gap-2 w-[45%] md:w-[30%] md:px-8 lg:px-11 text-center'>
                             <img className='w-[50px] h-[50px]' src={boxUp}></img>
                             <h3 className='subtitulo'>Propuesta de valor</h3>
                             <p className='parrafo'>Impulsa tus ventas online al ofrecer entregas programadas como el nuevo estándar de mercado</p>

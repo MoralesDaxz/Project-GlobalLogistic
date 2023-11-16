@@ -443,6 +443,15 @@ video{
   height: 45px;
   /*   padding: auto 5% auto 25%; */
 }
+.videoBg{
+  position: absolute;
+  top: 0;
+  right: 0;
+  left: 0;
+  bottom: 0;
+  z-index: 1;
+  
+}
 
 .bgOtros {
   background-image: url('../src/assets/img/fondoAzul3.png');
