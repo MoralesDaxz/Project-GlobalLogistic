@@ -58,7 +58,7 @@ export const FormNewCompany = () => {
               <input className='cursor-pointer text-white  bg-[#f7800093] rounded hover:bg-[#F77F00] w-[30%] p-2' type='submit' value={'Enviar'}></input>
 
             </form> :
-            <div className='text-[white] font-[400] text-[1.2rem] flex flex-col gap-8'>
+            <div className='w-[80%] text-[white] font-[400] text-[1.2rem] flex flex-col gap-8'>
               <div className='cursor-pointer absolute right-2 top-2 ' title='Cerrar' onClick={() => { setNewCompany(false) }}>
                 <MdClose className='text-[1.2rem]  hover:text-[#F77F00]'></MdClose>
               </div>

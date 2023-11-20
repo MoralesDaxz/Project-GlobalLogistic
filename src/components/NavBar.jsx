@@ -1,23 +1,27 @@
 import { React, useEffect, useState } from 'react'
 import { LogoWeb } from './LogoWeb'
-import { Link, } from 'react-router-dom'
-import { ProgressUnderline } from './ProgressUnderline'
+import { Link, useLocation } from 'react-router-dom'
+
 
 export const NavBar = () => {
-
+  const location = useLocation();
   const [mainModal, setMainModal] = useState(false)
   const [subModal, setSubModal] = useState(false)
   const [classMenu, setClassMenu] = useState('container')
 
+ 
   useEffect(() => {
-    window.innerWidth < 768 && setMainModal(false)
-    window.innerWidth > 767 && setMainModal(true)
-    setSubModal(false)
-    /*Renderiza evalua device, No muestra el modal ahasta dar click en iconMenu (Mobile)
-    pero al ser mainModal = true permite mostrar el mismo apartir de >768px */
-  }, [])
+    if (window.innerWidth < 767) {
+      setMainModal(false)
+      setClassMenu('container')
+    } else {
+      setMainModal(true)
+    }
+    
+  }, [location.pathname || window.innerWidth])
   return (
     <>
+
       <div className='w-full fixed z-10 backdrop-blur-[3px] bg-[#0b090a73] py-2 flex flex-col justify-evenly items-start text-[--blanco0] md:flex-row md:items-center md:gap-0 md:justify-around'>
         <LogoWeb onClick={() => setSubModal(false)}></LogoWeb >
         {/* iconMenu en mobile al dar click oculta modal -> Padre (Menu) e Hijo (Personas/Empresas) */}

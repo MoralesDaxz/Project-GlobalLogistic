@@ -10,6 +10,7 @@ export function GeneralValuesProvide({ children }) {
     const [element, setElement] = useState([])
     const [haveElement, setHaveElement] = useState(false)
     const [newCompany, setNewCompany] = useState(false)/* Form new company */
+    
     return (
         <GeneralValues.Provider value={{
             dataEstimate, setDataEstimate,

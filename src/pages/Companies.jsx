@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import fondoEmpresas from '../assets/img/empresas5.jpg'
+import fondoEmpresas from '../assets/img/empresas1.jpg'
 import { TrackingPack } from '../components/TrackingPack';
 import { ContentStartInfo } from '../components/ContentStartInfo';
 import { Footer } from '../components/Footer';

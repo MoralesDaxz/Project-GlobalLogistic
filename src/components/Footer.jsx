@@ -2,12 +2,8 @@ import React from 'react'
 import { LogoWeb } from './LogoWeb'
 import iso9001 from '../assets/img/iso1.png'
 import iso14001 from '../assets/img/iso4.png'
-import instagram from '../assets/img/instagram.png'
-import facebook from '../assets/img/facebook.png'
-import whatsapp from '../assets/img/whatsapp.png'
 import { FaWhatsapp } from "react-icons/fa";
 import { FaFacebook } from "react-icons/fa";
-import { FaFacebookSquare } from "react-icons/fa";
 import { FaInstagram } from "react-icons/fa";
 import { Link } from 'react-router-dom'
 import { Line } from './Line'

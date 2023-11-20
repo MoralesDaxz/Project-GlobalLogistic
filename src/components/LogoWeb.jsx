@@ -10,7 +10,7 @@ export const LogoWeb = ({props}) => {
   return (
     <>
      <Link to={'/'}>
-      {/* {location.pathname == "/help"?styleWhite:styleBlue} */}
+      
       <div className={location.pathname == "/help"?styleWhite:styleBlue}>
         <img className='w-[45px]' src={iconoEmpresa} alt='logo'/>
         <h1 className={props === 'footer'?'hidden':'font-bold'}>Global Logistic</h1>
